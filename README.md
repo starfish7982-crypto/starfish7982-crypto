@@ -31,7 +31,7 @@
 
 <ul dir="auto">
 <li><a href="www.linkedin.com/in/starfish7982" rel="nofollow">LinkedIn</a></li>
-<li><a href="http://www.sally-lin.com/" rel="nofollow">Personal Website</a></li>
+<li><a href="https://www.sally-lin.com/" rel="nofollow">Personal Website</a></li>
 </ul>
 
 <!--
