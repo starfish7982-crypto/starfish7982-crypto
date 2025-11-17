@@ -20,6 +20,7 @@
 <li><b>Languages:</b> Java, JSP, Python, PHP, JavaScript, TypeScript, HTML, CSS, SQL</li>
 <li><b>Frameworks:</b> ReactJS, Angular, Spring, Struts2, Hibernate, Node.js, Vite, Bootstrap, Tailwind CSS</li>
 <li><b>Databases:</b> MySQL, SQL Server, HeidiSQL</li>
+<li><b>Machine Learning:</b> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost</li>
 <li><b>Tools:</b> Git, GitHub, GitLab, TortoiseSVN, Postman, Docker, Linux, VMware, Octoparse</li>
 <li><b>Cloud & Hosting:</b> AWS (S3, CloudFront, Route 53)</li>
 <li><b>Software:</b> WordPress, Visual Studio, NetBeans, Android App Development</li>
