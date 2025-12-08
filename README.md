@@ -41,7 +41,7 @@
 
 <ul dir="auto">
 <li><a href="https://www.wgu.edu/">Western Governors University</a>, Bachelor of Computer Science   2025</li>
-<li><a href="https://web.iii.org.tw/">Institute for Information Industry</a>, Java Training Bootcamp   2016</li>
+<li><a href="https://www.iii.org.tw/en">Institute for Information Industry</a>, Java Training Bootcamp   2016</li>
 <li><a href="https://ao.ttu.edu.tw/" target="_blank">Tatung University</a>, Bachelor of Business Management   2013</li>
 </ul>
 
