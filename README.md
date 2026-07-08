@@ -1,11 +1,5 @@
 # Hi there, I'm Sally 👋
 
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=starfish7982&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starfish7982&layout=compact&theme=radical)
-
 I am a Software Engineer focused on Data-Driven Systems, AI Integration, and Full-Stack Development. I enjoy building scalable solutions that bridge technical complexity with real-world business impact.
 
 Currently:
