@@ -14,7 +14,7 @@ Currently:
 
 <ul dir="auto">
 <li><a href="https://outlier.ai/" rel="nofollow" target="_blank">Outlier</a>, AI Trainer   2024.06 - 2024.08</li>
-<li><a href="https://slyesn.wordpress.com/" rel="nofollow" target="_blank">SEason</a>, Founder & Software Engineer   2016.09 - 2023.06</li>
+<li><a href="https://slyesn.wordpress.com/" rel="nofollow" target="_blank">SEason</a>, Software Engineer   2021.04 - 2023.06</li>
   <li><a href="https://ackuretta.com/?srsltid=AfmBOorT4VzZEhx6GchHXi_LN5sCKKuuwmmJiPFthjQFaIsjpRSbbGRR" target="_blank" rel="nofollow">Ackuretta</a>, Software Engineer   2018.03 - 2021.04</li>
   <li><a href="https://www.job852.com/Personal/CorpInfoE.aspx?bid=757" rel="nofollow" target="_blank">Go1010 International Limited</a>, Software Engineer   2016.08 - 2017.07</li>
   <li><a href="https://www.msi.com/index.php" rel="nofollow" target="_blank">MSI</a>, Assistant Engineer   2013.10 - 2015.06</li>
